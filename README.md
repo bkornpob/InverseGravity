@@ -2,6 +2,8 @@
 
 Showcase of mechanics: inverse gravity
 
+Unity package file is available for $1.99.
+
 Try here: https://kbgamedev.itch.io/inversegravity
 
 Developer: KB.GameDev
