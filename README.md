@@ -10,4 +10,4 @@ Developer: KB.GameDev
 
 For more cool stuff, check my websites:
 
-kbgamedev.weebly.com
+www.kbgamedev.weebly.com
